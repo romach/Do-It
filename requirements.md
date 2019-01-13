@@ -3,7 +3,7 @@
 - <a name="uc-1"></a>**[UC-1]** as user I want to see all my To-Do-s ordered by creation time from earlier to later
 - <a name="uc-2"></a>**[UC-2]** as user I want to create to-do items with text description
 
-## Requariments
+## Requirements
 
 - <a name="r-1"></a>**[R-1]** list To-Do-s ordered by creation time from earlier to later. From [UC-1](#uc-1)
 
