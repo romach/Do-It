@@ -12,9 +12,9 @@
 - <a name="r-1"></a>**[R-1]** list To-Do-s ordered by creation time from earlier to later. From [UC-1](#uc-1)
 
 - <a name="r-2"></a>**[R-2]** add new To-do item. From [UC-2](#uc-2)
-	- <a name="r-2-1">**[R-2-1]** input field for To-do item's title. From [UC-2](#uc-2)
-	- <a name="r-2-2">**[R-2-2]** "Add" button for item creation. From [UC-2](#uc-2)
-	- <a name="r-2-3">**[R-2-3]** update To-Do list after adding new one. From [UC-2](#uc-2)
+    - <a name="r-2-1">**[R-2-1]** input field for To-do item's title. From [UC-2](#uc-2)
+    - <a name="r-2-2">**[R-2-2]** "Add" button for item creation. From [UC-2](#uc-2)
+    - <a name="r-2-3">**[R-2-3]** update To-Do list after adding new one. From [UC-2](#uc-2)
 
 ## Business rules
 
