@@ -21,3 +21,4 @@
 *v.0.1*
 
 - <a name="br-1">**[BR-1]** Maximum length of Todo-item title - 50 symbols
+- <a name="br-2">**[BR-2]** Minimum length of Todo-item title - 1 symbol
