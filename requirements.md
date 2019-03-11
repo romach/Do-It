@@ -2,7 +2,7 @@
 
 *v.0.1*
 
-- <a name="uc-1"></a>**[UC-1]** as user I want to see all my To-Do-s ordered by creation time from earlier to later
+- <a name="uc-1"></a>**[UC-1]** as user I want to see all my To-Do-s ordered by creation time from new to old
 - <a name="uc-2"></a>**[UC-2]** as user I want to create to-do items with text description
 
 ## Requirements
