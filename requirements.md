@@ -21,7 +21,7 @@
 
 | #         | Description                                                  | UC #     | Links                                      | Type and status             | RelationsParent     | Since |
 | --------- | ------------------------------------------------------------ | -------- | ------------------------------------------ | --------------------------- | ------------------- | ----- |
-| R-TDL-1   | List To-Do-s ordered by creation time from new to old        | UC-TDL-1 | Task:<br />PR:<br />Discussion:<br />Code: | functional<br />developing  | Parent:<br />Child: | 0.1   |
+| <nobr>R-TDL-1</nobr>   | List To-Do-s ordered by creation time from new to old        | UC-TDL-1 | Task:<br />PR:<br />Discussion:<br />Code: | functional<br />developing  | Parent:<br />Child: | 0.1   |
 | R-TDL-2   | Add new to-do item with text description                     | UC-TDL-2 | Task:<br />PR:<br />Discussion:<br />Code: | functional<br />developing  | Parent:<br />Child: | 0.1   |
 | R-TDL-2-1 | Input field for To-do item's title with hint: "To-do description" | UC-TDL-2 | Task:<br />PR:<br />Discussion:<br />Code: | UI<br />developing          | Parent:<br />Child: | 0.1   |
 | R-TDL-2-2 | "Add" button for item creation                               | UC-TDL-2 | Task:<br />PR:<br />Discussion:<br />Code: | UI<br />developing          | Parent:<br />Child: | 0.1   |
